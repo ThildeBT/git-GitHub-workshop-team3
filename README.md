@@ -1,4 +1,4 @@
-# git-GitHub-workshop-team2
+# git-GitHub-workshop-team3
 
 Thildes git and GitHub course repo for Team 2.
 
